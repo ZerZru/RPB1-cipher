@@ -1,4 +1,7 @@
 # RPB1-cipher
+
+あgずんや ぺrづんや
+
 Cipher, using Russian in English transliteration, in Japanese characters
 
 pりvえt! や vいzhう, chと vi れshいlい ざいち v えとt れぽじとりい な GitHub. わm いんてれsの, かk らsshいfろわt えとt てkst? mね pりdよtsや ぺれvえsち えご s るssこご な あんglいいsきい, たk chと sみsl shいfら(い えご slおzhのst) もzhえt ぽてrやtsや
