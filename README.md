@@ -20,7 +20,7 @@ from RPB1 import rpb1 #if english: rpb1e
 
 Else if you want to use RPB2:
 ```python
-from RPB1 import rpb2 #if english: rpb2
+from RPB1 import rpb2 #if english: rpb2e
 ```
 
 # About system
