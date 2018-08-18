@@ -13,9 +13,20 @@ For using this cipher in English, use the rpb1e() function.
 
 # Importing
 
-You can import the cipher:
+If you want to use RPB1, use this:
 ```python
-from RPB1 import * #or another cipher: rpb2, rpb1e
+from RPB1 import rpb1 #if english: rpb1e
 ```
 
-Or launch the GUI mode.
+Else if you want to use RPB2:
+```python
+from RPB1 import rpb2 #if english: rpb2
+```
+
+# About system
+
+The cipher use regular extensions for change literals to japanase symbols. Programm search russian(or english) literals, like "на(na)" and others, and change to "な".
+
+log.TXT - in this file write text(or word) ID, and message. But it look like \xna898. You can check it.
+
+USER_INFO.TXT - if you edit or modificied code and will publish it somewhere, you must to fill info in that file: date of changing, name, changing type(edit, mode or another), and licenses.
