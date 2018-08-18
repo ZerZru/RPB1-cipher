@@ -30,3 +30,10 @@ The cipher use regular extensions for change literals to japanase symbols. Progr
 log.TXT - in this file write text(or word) ID, and message. But it look like \xna898. You can check it.
 
 USER_INFO.TXT - if you edit or modificied code and will publish it somewhere, you must to fill info in that file: date of changing, name, changing type(edit, mode or another), and licenses.
+
+# Different between RPB1 and PPB2
+
+RPB1 looks like "るssきい やじk"(русский язык, russian language), RPB2 looks like "ロシア語"(русский язык, russian language).
+In RPB2-cipher words with countries and nations translated to japanese words: ROSIA, ROSIAGO, ROSIAJIN and anothers: US, Japan, England and Korea
+
+Sometimes this cipher can translate incorrectly.
